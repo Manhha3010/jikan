@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "role": "Main",
+      "anime": {
+        "mal_id": 48561,
+        "url": "https:\/\/myanimelist.net\/anime\/48561\/Jujutsu_Kaisen_0_Movie",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/119044.jpg?s=b4821cdac7d0126dc79e948b62df4d2e",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/119044t.jpg?s=b4821cdac7d0126dc79e948b62df4d2e",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/119044l.jpg?s=b4821cdac7d0126dc79e948b62df4d2e"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/119044.webp?s=b4821cdac7d0126dc79e948b62df4d2e",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/119044t.webp?s=b4821cdac7d0126dc79e948b62df4d2e",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/1121\/119044l.webp?s=b4821cdac7d0126dc79e948b62df4d2e"
+          }
+        },
+        "title": "Jujutsu Kaisen 0 Movie"
+      },
+      "character": {
+        "mal_id": 164476,
+        "url": "https:\/\/myanimelist.net\/character\/164476\/Panda",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/r\/84x124\/images\/characters\/16\/423950.jpg?s=0028e4781ba40417b1e7779268b2bc59"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/r\/84x124\/images\/characters\/16\/423950.webp?s=0028e4781ba40417b1e7779268b2bc59",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/r\/84x124\/images\/characters\/16\/423950t.webp?s=0028e4781ba40417b1e7779268b2bc59"
+          }
+        },
+        "name": "Panda"
+      }
+    }
+  ]
+}

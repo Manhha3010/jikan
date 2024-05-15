@@ -1,0 +1,4 @@
+ignore:
+  # ignore DTOs
+  - "src/main/java/net/sandrohc/jikan/model/*.java"
+  - "src/main/java/net/sandrohc/jikan/model/**/*.java"

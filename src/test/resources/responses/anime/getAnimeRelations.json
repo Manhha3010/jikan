@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "relation": "Adaptation",
+      "entry": [
+        {
+          "mal_id": 21479,
+          "type": "manga",
+          "name": "Sword Art Online",
+          "url": "https:\/\/myanimelist.net\/manga\/21479\/Sword_Art_Online"
+        },
+        {
+          "mal_id": 43921,
+          "type": "manga",
+          "name": "Sword Art Online: Progressive",
+          "url": "https:\/\/myanimelist.net\/manga\/43921\/Sword_Art_Online__Progressive"
+        }
+      ]
+    }
+  ]
+}

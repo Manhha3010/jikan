@@ -1,0 +1,14 @@
+{
+  "pagination": {
+    "last_visible_page": 19,
+    "has_next_page": true
+  },
+  "data": [
+    {
+      "mal_id": 1,
+      "name": "Studio Pierrot",
+      "url": "https:\/\/myanimelist.net\/anime\/producer\/1\/Studio_Pierrot",
+      "count": 270
+    }
+  ]
+}

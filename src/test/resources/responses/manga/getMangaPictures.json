@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "jpg": {
+        "image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846.jpg",
+        "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846t.jpg",
+        "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846l.jpg"
+      },
+      "webp": {
+        "image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846.webp",
+        "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846t.webp",
+        "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846l.webp"
+      }
+    }
+  ]
+}

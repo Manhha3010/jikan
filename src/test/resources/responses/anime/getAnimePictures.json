@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "jpg": {
+        "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/36343.jpg",
+        "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/36343t.jpg",
+        "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/36343l.jpg"
+      },
+      "webp": {
+        "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/36343.webp",
+        "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/36343t.webp",
+        "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/8\/36343l.webp"
+      }
+    }
+  ]
+}

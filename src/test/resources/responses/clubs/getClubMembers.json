@@ -1,0 +1,20 @@
+{
+  "pagination": {
+    "last_visible_page": 1,
+    "has_next_page": false
+  },
+  "data": [
+    {
+      "username": "USER_1",
+      "url": "https:\/\/myanimelist.net\/profile\/USER_1",
+      "images": {
+        "jpg": {
+          "image_url": "https:\/\/myanimelist.net\/images\/userimages\/4468359.jpg?t=1645044600"
+        },
+        "webp": {
+          "image_url": "https:\/\/myanimelist.net\/images\/userimages\/4468359.webp?t=1645044600"
+        }
+      }
+    }
+  ]
+}

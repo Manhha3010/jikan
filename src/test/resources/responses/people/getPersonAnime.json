@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "position": "add Theme Song Performance",
+      "anime": {
+        "mal_id": 3080,
+        "url": "https:\/\/myanimelist.net\/anime\/3080\/Anime_Tenchou",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/4635.jpg?s=ad3dd02ed42bccbc84e0bde5c9e4ac7d",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/4635t.jpg?s=ad3dd02ed42bccbc84e0bde5c9e4ac7d",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/4635l.jpg?s=ad3dd02ed42bccbc84e0bde5c9e4ac7d"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/4635.webp?s=ad3dd02ed42bccbc84e0bde5c9e4ac7d",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/4635t.webp?s=ad3dd02ed42bccbc84e0bde5c9e4ac7d",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/9\/4635l.webp?s=ad3dd02ed42bccbc84e0bde5c9e4ac7d"
+          }
+        },
+        "title": "Anime Tenchou"
+      }
+    }
+  ]
+}

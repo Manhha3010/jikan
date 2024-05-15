@@ -1,0 +1,34 @@
+{
+  "data": {
+    "promo": [
+      {
+        "title": "PV English dub version",
+        "trailer": {
+          "youtube_id": "6ohYYtxfDCg",
+          "url": "https:\/\/www.youtube.com\/watch?v=6ohYYtxfDCg",
+          "embed_url": "https:\/\/www.youtube.com\/embed\/6ohYYtxfDCg?enablejsapi=1&wmode=opaque&autoplay=1",
+          "images": {
+            "image_url": "https:\/\/img.youtube.com\/vi\/6ohYYtxfDCg\/default.jpg",
+            "small_image_url": "https:\/\/img.youtube.com\/vi\/6ohYYtxfDCg\/sddefault.jpg",
+            "medium_image_url": "https:\/\/img.youtube.com\/vi\/6ohYYtxfDCg\/mqdefault.jpg",
+            "large_image_url": "https:\/\/img.youtube.com\/vi\/6ohYYtxfDCg\/hqdefault.jpg",
+            "maximum_image_url": "https:\/\/img.youtube.com\/vi\/6ohYYtxfDCg\/maxresdefault.jpg"
+          }
+        }
+      }
+    ],
+    "episodes": [
+      {
+        "mal_id": 25,
+        "title": "The World Seed",
+        "episode": "Episode 25",
+        "url": "https:\/\/myanimelist.net\/anime\/11757\/Sword_Art_Online\/episode\/25",
+        "images": {
+          "jpg": {
+            "image_url": null
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "pagination": {
+    "last_visible_page": 1,
+    "has_next_page": false
+  },
+  "data": [
+    {
+      "user": {
+        "username": "USER_1",
+        "url": "https:\/\/myanimelist.net\/profile\/USER_1",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/userimages\/6288511.jpg?t=1645123200"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/userimages\/6288511.webp?t=1645123200"
+          }
+        }
+      },
+      "score": 9,
+      "status": "Completed",
+      "volumes_read": 34,
+      "volumes_total": 34,
+      "chapters_read": 141,
+      "chapters_total": 141,
+      "date": "2022-02-17T18:36:11+00:00"
+    }
+  ]
+}

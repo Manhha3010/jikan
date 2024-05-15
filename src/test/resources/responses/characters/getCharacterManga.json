@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "role": "Main",
+      "manga": {
+        "mal_id": 21479,
+        "url": "https:\/\/myanimelist.net\/manga\/21479\/Sword_Art_Online",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/34697.jpg?s=370b6226f2da5f0061b8aba1bd43ece4",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/34697t.jpg?s=370b6226f2da5f0061b8aba1bd43ece4",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/34697l.jpg?s=370b6226f2da5f0061b8aba1bd43ece4"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/34697.webp?s=370b6226f2da5f0061b8aba1bd43ece4",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/34697t.webp?s=370b6226f2da5f0061b8aba1bd43ece4",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/34697l.webp?s=370b6226f2da5f0061b8aba1bd43ece4"
+          }
+        },
+        "title": "Sword Art Online"
+      }
+    }
+  ]
+}

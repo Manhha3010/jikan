@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "entry": {
+        "mal_id": 17265,
+        "url": "https:\/\/myanimelist.net\/anime\/17265\/Log_Horizon",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/84004.jpg?s=73d4b44ed253ca5c865ef6e026cec99f",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/84004t.jpg?s=73d4b44ed253ca5c865ef6e026cec99f",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/84004l.jpg?s=73d4b44ed253ca5c865ef6e026cec99f"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/84004.webp?s=73d4b44ed253ca5c865ef6e026cec99f",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/84004t.webp?s=73d4b44ed253ca5c865ef6e026cec99f",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/anime\/5\/84004l.webp?s=73d4b44ed253ca5c865ef6e026cec99f"
+          }
+        },
+        "title": "Log Horizon"
+      },
+      "url": "https:\/\/myanimelist.net\/recommendations\/anime\/11757-17265",
+      "votes": 174
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "data": [
+    {
+      "character": {
+        "mal_id": 40881,
+        "url": "https:\/\/myanimelist.net\/character\/40881\/Mikasa_Ackerman",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/characters\/9\/215563.jpg?s=5b0650bb09a7e053afc6bad84ab48947"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/characters\/9\/215563.webp?s=5b0650bb09a7e053afc6bad84ab48947",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/characters\/9\/215563t.webp?s=5b0650bb09a7e053afc6bad84ab48947"
+          }
+        },
+        "name": "Ackerman, Mikasa"
+      },
+      "role": "Main"
+    }
+  ]
+}

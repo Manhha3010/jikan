@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "position": "Story & Art",
+      "manga": {
+        "mal_id": 23390,
+        "url": "https:\/\/myanimelist.net\/manga\/23390\/Shingeki_no_Kyojin",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846.jpg?s=b6287253ff8bf4145d07a32a74bdff9e",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846t.jpg?s=b6287253ff8bf4145d07a32a74bdff9e",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846l.jpg?s=b6287253ff8bf4145d07a32a74bdff9e"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846.webp?s=b6287253ff8bf4145d07a32a74bdff9e",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846t.webp?s=b6287253ff8bf4145d07a32a74bdff9e",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/2\/37846l.webp?s=b6287253ff8bf4145d07a32a74bdff9e"
+          }
+        },
+        "title": "Shingeki no Kyojin"
+      }
+    }
+  ]
+}

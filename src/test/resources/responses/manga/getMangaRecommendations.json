@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "entry": {
+        "mal_id": 44489,
+        "url": "https:\/\/myanimelist.net\/manga\/44489\/Houseki_no_Kuni",
+        "images": {
+          "jpg": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/115443.jpg?s=9795cb8739785d402a60e5aade4ddf3b",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/115443t.jpg?s=9795cb8739785d402a60e5aade4ddf3b",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/115443l.jpg?s=9795cb8739785d402a60e5aade4ddf3b"
+          },
+          "webp": {
+            "image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/115443.webp?s=9795cb8739785d402a60e5aade4ddf3b",
+            "small_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/115443t.webp?s=9795cb8739785d402a60e5aade4ddf3b",
+            "large_image_url": "https:\/\/cdn.myanimelist.net\/images\/manga\/1\/115443l.webp?s=9795cb8739785d402a60e5aade4ddf3b"
+          }
+        },
+        "title": "Houseki no Kuni"
+      },
+      "url": "https:\/\/myanimelist.net\/recommendations\/manga\/23390-44489",
+      "votes": 13
+    }
+  ]
+}

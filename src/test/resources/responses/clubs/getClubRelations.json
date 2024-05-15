@@ -1,0 +1,28 @@
+{
+  "data": {
+    "anime": [
+      {
+        "mal_id": 1,
+        "type": "anime",
+        "name": "Cowboy Bebop",
+        "url": "https:\/\/myanimelist.net\/anime\/1"
+      }
+    ],
+    "manga": [
+      {
+        "mal_id": 173,
+        "type": "manga",
+        "name": "Cowboy Bebop",
+        "url": "https:\/\/myanimelist.net\/manga\/173"
+      }
+    ],
+    "characters": [
+      {
+        "mal_id": 19119,
+        "type": "character",
+        "name": "Wen",
+        "url": "https:\/\/myanimelist.net\/character\/19119"
+      }
+    ]
+  }
+}

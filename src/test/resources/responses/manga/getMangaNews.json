@@ -1,0 +1,24 @@
+{
+  "pagination": {
+    "last_visible_page": 1,
+    "has_next_page": true
+  },
+  "data": [
+    {
+      "mal_id": 65168030,
+      "url": "https:\/\/myanimelist.net\/news\/65168030",
+      "title": "'Kono Manga ga Sugoi!' 2022 Rankings Revealed",
+      "date": "2021-12-12T01:11:00+00:00",
+      "author_username": "USER_1",
+      "author_url": "https:\/\/myanimelist.net\/profile\/USER_1",
+      "forum_url": "https:\/\/myanimelist.net\/forum\/?topicid=1978847",
+      "images": {
+        "jpg": {
+          "image_url": "https:\/\/cdn.myanimelist.net\/s\/common\/uploaded_files\/1639300126-5b3f7ab8681fbd31a28c3556dcb4e891.jpeg?s=fb5f7b8f9844443a824273b6b06eca46"
+        }
+      },
+      "comments": 10,
+      "excerpt": "Here are the top 20 manga rankings collected by the \"Kono Manga ga Sugoi!\" (This Manga is Amazing!) annual magazine. Male Readers' Top 20 *1. Look Bac..."
+    }
+  ]
+}

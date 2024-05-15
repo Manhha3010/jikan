@@ -1,0 +1,28 @@
+## Project
+!**/src/main/**
+!**/src/test/**
+
+
+## Gradle
+/.gradle/
+/.gradle.properties
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+
+## IDEs
+.vim
+.idea
+.eclipse
+.atom
+.vscode
+
+out/
+
+
+## Others
+*.class
+*.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
